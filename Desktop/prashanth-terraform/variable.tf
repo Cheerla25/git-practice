@@ -11,3 +11,10 @@ variable "instance_type" {
 
   
 }
+variable "bucket" {
+   description = "value fot the s3" 
+  
+}
+variable "name "{
+   description = "value fot the dynamo db"  
+}
